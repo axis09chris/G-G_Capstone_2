@@ -3,8 +3,8 @@
 .bottom-content {
   font-family: 'Roboto Condensed', sans-serif;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  padding: 30px 200px;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  padding: 30px 100px;
 
   background-color: beige;
   border-top-width: 2px;
@@ -21,7 +21,7 @@
 .footer-content {
   align-items: center;
   display: grid;
-  grid-template-rows: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
   row-gap: 5px;
 }
 .footer-hover:hover {

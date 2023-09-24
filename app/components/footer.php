@@ -7,6 +7,12 @@
 </head>
 <body>
   <main class="bottom-content">
+  <div class="footer-content">
+      <div class="bottom-content-title">Important Pages</div>
+      <div><a class= "footer-hover" href="../php/#">FAQs</a></div>
+      <div><a class= "footer-hover" href="#">Terms and conditions</a></div>
+      <div><a class= "footer-hover" href="../php/#">Contact us</a></div>
+    </div>
     <div class="footer-content">
       <div class="bottom-content-title">Important Pages</div>
       <div><a class= "footer-hover" href="../php/about.php">About us</a></div>
@@ -20,7 +26,7 @@
     </div>
     <div class="footer-content">
       <div class="bottom-content-title">Contact us</div>
-      <div><img class="footer-icon" src="../../icons/location-pin.png" alt="">&nbsp; National Road, Libjo Tacad, Batangas City</div>
+      <div><img class="footer-icon" src="../../icons/location-pin.png" alt="">&nbsp; National Road Libjo Tacad, Batangas</div>
       <div><img class="footer-icon" src="../../icons/smartphone-call.png" alt="">&nbsp; +63 916-379-8315</div>
       <div><img class="footer-icon" src="../../icons/clock.png" alt="">&nbsp; 9AM - 5PM</div>
     </div>
