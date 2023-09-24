@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.gallery-title {
+  font-family: 'Poppins', sans-serif;
+  background-color: beige;
+
+  position: fixed;
+  top: 0px;
+  left: 245px;
+  right: 0px;
+  height: 48px;
+
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: #222;
+}
+.gallery-title h1 {
+  margin: 0px;
+}
+.container {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.container .box-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.container .box-container .gallery-img {
+  display: flex;
+  flex-direction: column;
+  width: 32.5%;
+}
+.container .box-container .gallery-img img {
+  width: 100%;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+.container p {
+  text-align: center;
+  font-family: 'Pacifico', cursive;
+  font-size: 2em;
+  margin: 0px;
+}
+.container hr {
+  width: 50%;
+  border: 2px solid black;
+  margin-bottom: 15px;
+}

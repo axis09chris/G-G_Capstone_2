@@ -1,0 +1,41 @@
+.content-title {
+  font-family: 'Poppins', sans-serif;
+  background-color: beige;
+
+  position: fixed;
+  top: 0px;
+  left: 245px;
+  right: 0px;
+  height: 48px;
+
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: #222;
+}
+.meal-content {
+  padding: 10px;
+}
+.meal-title {
+  display: grid;
+  grid-template-rows: 40px 1fr;
+  text-align: center;
+  padding: 0px 100px 10px;
+}
+.meal1 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  text-align: center;
+}
+.meal-image {
+  width: 95%;
+}
+.meal-name {
+  font-weight: bold;
+  font-size: 18px;
+}
+h1,
+h2,
+p {
+  margin: 1px;
+}

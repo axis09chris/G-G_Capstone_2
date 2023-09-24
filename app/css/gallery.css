@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.gallery-title {
+  font-family: 'Poppins', sans-serif;
+  background-color: beige;
+
+  position: fixed;
+  top: 0px;
+  left: 245px;
+  right: 0px;
+  height: 48px;
+
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: #222;
+}
+.gallery-title h1 {
+  margin: 1px;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 120px 0px;
+}
+.container .album-food {
+  padding: 150px;
+  background-image: url(../../img/american-plated.jpg);
+  background-color: rgba(255,255,255,0.6);
+  background-blend-mode: lighten;
+  border-radius: 10px;
+  border: 3px solid #000;
+}
+.container .album-venue {
+  padding: 150px;
+  background-image: url(../../img/img1-3.jpg);
+  background-color: rgba(255,255,255,0.6);
+  background-blend-mode: lighten;
+  border-radius: 10px;
+  border: 3px solid #000;
+  margin-right: 50px;
+}
+.container .album-food span,
+.container .album-venue span {
+  font-family: 'Pacifico', cursive;
+  font-size: 3em;
+  color: black;
+}
+.container .album-food span:hover,
+.container .album-venue span:hover {
+  text-decoration: underline;
+} 

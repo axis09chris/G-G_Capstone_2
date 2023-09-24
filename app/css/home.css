@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.container1 {
+  text-align: center;
+  background-image: url(../../img/bg3.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  /* height: 100%; */
+  opacity: 0.9;
+  padding: 60px;
+}
+.container1 p {
+  font-family: 'Pacifico', sans-serif;
+  color: rgb(225, 225, 225);
+  font-size: 90px;
+
+  display: inline-block;
+  padding: .25em 0;
+  background: rgba(255, 255, 255, 0.2);
+}
