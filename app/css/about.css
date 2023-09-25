@@ -65,39 +65,35 @@ hr {
   flex-direction: column;
   justify-content: center;
   text-align: center;
-  background-color: aqua;
-  padding-bottom: 50px;
+  background-color: antiquewhite;
+  padding: 10px 0px 70px;
   
 }
 .contact-us #contactForm {
-  /* display: grid; */
-  /* grid-template-rows: 1fr 1fr 1fr 1fr; */
   margin: auto;
-  width: 80%;
+  width: 98%;
   height: 100%;
-  border: 3px solid #222;
+  border: 1px solid #000;
 }
 .contact-us .container-contact {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  align-items: center;
   margin: auto;
-  width: 70%;
 }
-/* .form-group {
-  margin-bottom: 20px;
-  text-align: center;
-} */
 .form-btn {
   text-align: center;
+  margin-top: 5px;
 }
 .form-group input,
 .form-group textarea {
+  margin-top: 10px;
   width: 80%;
   padding: 10px;
   border: 1px solid black;
+  border-radius: 5px;
   outline: none;
   font-size: 1em;
+  font-family: 'Poppins', cursive;
 }
 .btn-primary {
   width: 25%;

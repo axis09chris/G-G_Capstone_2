@@ -35,7 +35,7 @@
       <p class="checkpoint">Our owner, a graduate of BS Industrial Education major in Food Technology, possesses extensive knowledge and expertise in the field. With 36 units in Masters in Business Management and Masters in Public Administration, as well as two years of study in the College of Law, our owner's educational background and teaching experience in Business Entrepreneurship at the University of Batangas have greatly contributed to the success of our business.</p>
     </section>
   </main>
-  <section class="contact-us">
+  <section class="contact-us" id="contact-us">
     <h2>Contact Us</h2>
     <div class="container-contact">
       <div class="container-form">
@@ -59,7 +59,7 @@
       </form>
       </div>
       <div class="container-map">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1937.8262683144526!2d121.070872261763!3d13.739474189256327!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33bd05024eed2a23%3A0x19d0a31ceec74e9!2sThe%20Place!5e0!3m2!1sen!2sph!4v1695610272180!5m2!1sen!2sph" width="450" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1937.8262683144526!2d121.070872261763!3d13.739474189256327!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33bd05024eed2a23%3A0x19d0a31ceec74e9!2sThe%20Place!5e0!3m2!1sen!2sph!4v1695610272180!5m2!1sen!2sph" width="450" height="320" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       </div>
     </div>
     </section>
