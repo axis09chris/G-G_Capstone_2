@@ -64,14 +64,53 @@ hr {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  /* text-align: center; */
+  text-align: center;
+  background-color: aqua;
+  padding-bottom: 50px;
   
 }
 .contact-us #contactForm {
-  display: grid;
-  grid-template-rows: 1fr 1fr 1fr 1fr;
+  /* display: grid; */
+  /* grid-template-rows: 1fr 1fr 1fr 1fr; */
   margin: auto;
-  width: 40%;
+  width: 80%;
+  height: 100%;
   border: 3px solid #222;
-  padding-top: 20px;
+}
+.contact-us .container-contact {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  margin: auto;
+  width: 70%;
+}
+/* .form-group {
+  margin-bottom: 20px;
+  text-align: center;
+} */
+.form-btn {
+  text-align: center;
+}
+.form-group input,
+.form-group textarea {
+  width: 80%;
+  padding: 10px;
+  border: 1px solid black;
+  outline: none;
+  font-size: 1em;
+}
+.btn-primary {
+  width: 25%;
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: none;
+  background-color: rgb(227, 227, 91);
+  outline: none;
+  font-size: 1em;
+  font-family: 'Poppins', cursive;
+  cursor: pointer;
+}
+.btn:hover {
+  border: 1px solid #000;
+  font-weight: bold;
 }

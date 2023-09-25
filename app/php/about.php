@@ -36,27 +36,32 @@
     </section>
   </main>
   <section class="contact-us">
-        <h2>Contact Us</h2>
+    <h2>Contact Us</h2>
+    <div class="container-contact">
+      <div class="container-form">
         <form id="contactForm">
-          <div>
-            <label for="name">Name:</label>
-            <input type="text" id="name" name="name" required>
+          <div class="form-group">
+            <input type="text" class="form-control" name="fullname" placeholder="Full Name : ">
           </div>
-
-          <div>
-            <label for="email">Email:</label>
-            <input type="email" id="email" name="email" required>
+          <div class="form-group">
+            <input type="email" class="form-control" name="email" placeholder="Email : ">
           </div>
-
-          <div>
-            <label for="message">Message:</label>
-            <textarea id="message" name="message" required></textarea>
+          <div class="form-group">
+            <textarea id="message" class="form-control" name="message" placeholder="Message :" rows="5" cols="35" required></textarea>
           </div>
-
-          <div>
-            <button type="submit">Submit</button>
+          <div class="form-btn">
+            <input type="submit" class="btn btn-primary" value="Submit" name="submit">
           </div>
         </form>
+
+        <form action="registration.php" method="post">
+          
+      </form>
+      </div>
+      <div class="container-map">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1937.8262683144526!2d121.070872261763!3d13.739474189256327!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33bd05024eed2a23%3A0x19d0a31ceec74e9!2sThe%20Place!5e0!3m2!1sen!2sph!4v1695610272180!5m2!1sen!2sph" width="450" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      </div>
+    </div>
     </section>
   <footer>
     <?php include'../components/footer.php' ?>
