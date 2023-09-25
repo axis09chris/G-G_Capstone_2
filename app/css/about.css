@@ -65,7 +65,6 @@ hr {
   flex-direction: column;
   justify-content: center;
   text-align: center;
-  background-color: antiquewhite;
   padding: 10px 0px 70px;
   
 }
@@ -82,7 +81,7 @@ hr {
 }
 .form-btn {
   text-align: center;
-  margin-top: 5px;
+  margin-top: 10px;
 }
 .form-group input,
 .form-group textarea {
