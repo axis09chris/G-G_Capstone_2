@@ -60,3 +60,18 @@ hr {
   color: black;
   border: 2px solid black;
 }
+.contact-us {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* text-align: center; */
+  
+}
+.contact-us #contactForm {
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  margin: auto;
+  width: 40%;
+  border: 3px solid #222;
+  padding-top: 20px;
+}

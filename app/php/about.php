@@ -35,8 +35,42 @@
       <p class="checkpoint">Our owner, a graduate of BS Industrial Education major in Food Technology, possesses extensive knowledge and expertise in the field. With 36 units in Masters in Business Management and Masters in Public Administration, as well as two years of study in the College of Law, our owner's educational background and teaching experience in Business Entrepreneurship at the University of Batangas have greatly contributed to the success of our business.</p>
     </section>
   </main>
+  <section class="contact-us">
+        <h2>Contact Us</h2>
+        <form id="contactForm">
+          <div>
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+          </div>
+
+          <div>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+          </div>
+
+          <div>
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" required></textarea>
+          </div>
+
+          <div>
+            <button type="submit">Submit</button>
+          </div>
+        </form>
+    </section>
   <footer>
     <?php include'../components/footer.php' ?>
   </footer>
+  <script>
+        document.getElementById("contactForm").addEventListener("submit", function (e) {
+            e.preventDefault();
+            // You can add code here to handle form submission, such as sending an email or saving to a database.
+            alert("Your message has been sent!");
+            // Clear the form fields after submission
+            document.getElementById("name").value = "";
+            document.getElementById("email").value = "";
+            document.getElementById("message").value = "";
+        });
+    </script>
 </body>
 

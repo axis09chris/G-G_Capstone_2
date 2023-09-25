@@ -9,9 +9,9 @@
   <main class="bottom-content">
   <div class="footer-content">
       <div class="bottom-content-title">Important Pages</div>
-      <div><a class= "footer-hover" href="../php/#">FAQs</a></div>
-      <div><a class= "footer-hover" href="#">Terms and conditions</a></div>
-      <div><a class= "footer-hover" href="../php/#">Contact us</a></div>
+      <div><img class="footer-icon" src="../../icons/faqs.png" alt=""><a class= "footer-hover" href="../php/#">&nbsp;FAQs</a></div>
+      <div><img class="footer-icon" src="../../icons/terms.png" alt=""><a class= "footer-hover" href="#">&nbsp;Terms and conditions</a></div>
+      <div><img class="footer-icon" src="../../icons/smartphone-call.png" alt=""><a class= "footer-hover" href="../php/#">&nbsp;Contact us</a></div>
     </div>
     <div class="footer-content">
       <div class="bottom-content-title">Important Pages</div>
