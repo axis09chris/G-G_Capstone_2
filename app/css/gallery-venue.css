@@ -21,25 +21,14 @@
   margin-top: 20px;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
   text-align: center;
 }
-
-.container .box-container {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-}
-.container .box-container .gallery-img {
-  display: flex;
-  flex-direction: column;
-  width: 32.5%;
-}
-.container .box-container .gallery-img img {
-  width: 100%;
-  margin-bottom: 10px;
-  border-radius: 10px;
+.container main {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
 }
 .container p {
   text-align: center;
@@ -52,3 +41,37 @@
   border: 2px solid black;
   margin-bottom: 15px;
 }
+
+.container .album-venue {
+  background-color: rgba(255,255,255,0.7);
+  background-blend-mode: lighten;
+  background-size: cover;
+  border-radius: 10px;
+  border: 3px solid #000;
+  color: black;
+  padding: 70px;
+}
+.container .album-wedding {
+  background-image: url(../../img/wedding/wed3-1.jpg);
+}
+.container .album-christening {
+  background-image: url(../../img/christening/5-0.jpg);
+}
+.container .album-kid {
+  background-image: url(../../img/kid_party/1-0.jpg);
+}
+.container .album-debut {
+  background-image: url(../../img/debut/4-0.jpg);
+}
+.container .album-adult {
+  background-image: url(../../img/adult_party/1-0.jpg);
+}
+
+.container .album-venue span {
+  font-family: 'Pacifico', cursive;
+  font-size: 2em;
+  color: black;
+}
+.container .album-venue span:hover {
+  text-decoration: underline;
+} 

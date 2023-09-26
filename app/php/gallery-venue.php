@@ -9,28 +9,21 @@
   <div class="container">
     <p>Venue Gallery</p>
     <hr>
-    <main class="box-container">
-      <div class="gallery-img">
-        <img src="../../img/img1-1.jpg" alt="">
-        <img src="../../img/img2-1.jpg" alt="">
-        <img src="../../img/img2-4.jpg" alt="">
-        <img src="../../img/img3-3.jpg" alt="">
-        <img src="../../img/img4-2.jpg" alt="">
-      </div>
-      <div class="gallery-img">
-        <img src="../../img/img1-2.jpg" alt="">
-        <img src="../../img/img2-2.jpg" alt="">
-        <img src="../../img/img3-1.jpg" alt="">
-        <img src="../../img/img3-4.jpg" alt="">
-        <img src="../../img/img4-3.jpg" alt="">
-      </div>
-      <div class="gallery-img">
-        <img src="../../img/img1-3.jpg" alt="">
-        <img src="../../img/img2-3.jpg" alt="">
-        <img src="../../img/img3-2.jpg" alt="">
-        <img src="../../img/img4-1.jpg" alt="">
-        <img src="../../img/img4-4.jpg" alt="">
-      </div>
+    <main>
+      <section class="ca">
+        <div class="album-venue album-christening"><a href="gallery-christening.php"><span>Christening</span></a></div>
+        <br>
+        <div class="album-venue album-adult"><a href="gallery-adult.php"><span>Adult Party</span></a></div>
+      </section>
+      <section class="w">
+        <div class="album-venue album-wedding"><a href="gallery-wedding.php"><span>Wedding</span></a></div>
+      </section>      
+      <section class="kd">
+        <div class="album-venue album-kid"><a href="gallery-kids.php"><span>Kid Party</span></a></div>
+        <br>
+        <div class="album-venue album-debut"><a href="gallery-debut.php"><span>Debut</span></a></div>
+      </section>
+      <br>
     </main>
   </div>
   <footer>

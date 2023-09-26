@@ -7,7 +7,7 @@
   <h1><a href="gallery.php">Gallery</a></h1>
     </div>
   <div class="container">
-    <p>Food Gallery</p>
+    <p>Cuisine Gallery</p>
     <hr>
     <main class="box-container">
       <div class="gallery-img">

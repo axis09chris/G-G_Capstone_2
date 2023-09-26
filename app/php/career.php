@@ -14,23 +14,23 @@
 
       <div class="careers">
         <div class="career-box">
-          <div><img class="career-img" src="../../img/account-executive.png" alt="account-executive"></div>
+          <div><img class="career-img" src="../../img/careers/account-executive.png" alt="account-executive"></div>
           <div class="job" onclick="openJobModal('Accounts Executive')">Accounts Executive</div>
         </div>
         <div class="career-box">
-          <div><img class="career-img" src="../../img/florist1.png" alt="florist1"></div>
+          <div><img class="career-img" src="../../img/careers/florist1.png" alt="florist1"></div>
           <div class="job" onclick="openJobModal('Florist')">Florist</div>
         </div>
         <div class="career-box">
-          <div><img class="career-img" src="../../img/catering-manager.jpg" alt="catering-manager"></div>
+          <div><img class="career-img" src="../../img/careers/catering-manager.jpg" alt="catering-manager"></div>
           <div class="job" onclick="openJobModal('Catering Manager')">Catering Manager</div>
         </div>
         <div class="career-box">
-          <div><img class="career-img" src="../../img/cheff.jpg" alt="cheff"></div>
+          <div><img class="career-img" src="../../img/careers/cheff.jpg" alt="cheff"></div>
           <div class="job"  onclick="openJobModal('R&D Chef')">R&D Chef</div>
         </div>
         <div class="career-box">
-          <div><img class="career-img" src="../../img/marketing-staff.png" alt="marketing-staff"></div>
+          <div><img class="career-img" src="../../img/careers/marketing-staff.png" alt="marketing-staff"></div>
           <div class="job" onclick="openJobModal('Marketing Staff')">Marketing Staff</div>
           <!-- JOB MODAL -->
           <div id="jobModal">

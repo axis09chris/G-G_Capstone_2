@@ -8,7 +8,7 @@
   </div>
   <main class="container">
     <div class="album-venue"><a href="gallery-venue.php"><span>Venue</span></a></div>
-    <div class="album-food"><a href="gallery-food.php"><span>Food</span></a></div>
+    <div class="album-food"><a href="gallery-food.php"><span>Cuisine</span></a></div>
   </main>
   <footer>
     <?php include'../components/footer.php' ?>

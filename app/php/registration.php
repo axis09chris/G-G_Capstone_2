@@ -18,7 +18,8 @@ if (isset($_SESSION["user"])) {
   <div class="main">
     <div class="left">
       <img src="../../img/gg-logo.png" alt="logo">
-      <p>The Place GianGaela's</p>
+      <!-- <p>The Place Gian & Gaela's</p> -->
+      <p>The Place<br><span>Function Hall & Food Catering Services</span></p>
     </div>
     <div class="right">
       <?php

@@ -80,6 +80,9 @@ a:hover {
   padding-top: 10px;
   font-family: 'Poppins', cursive;
 }
+.left span {
+  font-size: 15px;
+}
 
 .alert-success {
   width: 80%;
