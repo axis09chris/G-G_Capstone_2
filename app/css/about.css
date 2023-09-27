@@ -52,7 +52,7 @@ p.gg-title {
   font-size: 30px;
   margin: 0px;
 }
-h1 {
+h1,h2 {
   margin: 1px;
 }
 hr {
@@ -63,9 +63,8 @@ hr {
 .contact-us {
   display: flex;
   flex-direction: column;
-  justify-content: center;
   text-align: center;
-  padding: 10px 0px 70px;
+  padding: 70px 0px;
   
 }
 .contact-us #contactForm {
@@ -93,6 +92,27 @@ hr {
   outline: none;
   font-size: 1em;
   font-family: 'Poppins', cursive;
+}
+
+.partnership-section {
+  padding: 70px 0px;
+}
+.partnership-section h2 {
+  text-align: center;
+}
+.partnership-section .container-partnership {
+  display: flex;
+  flex-direction: column;
+  row-gap: 30px;
+  justify-content: space-evenly;
+  text-align: center;
+}
+.partnership-section .container-partnership .container-partner {
+  display: flex;
+  justify-content: space-evenly;
+}
+.partnership-section .container-partnership .container-partner .icon-partner {
+  width: 15%;
 }
 .btn-primary {
   width: 25%;
