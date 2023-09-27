@@ -14,24 +14,60 @@
 
       <div class="careers">
         <div class="career-box">
-          <div><img class="career-img" src="../../img/careers/account-executive.png" alt="account-executive"></div>
-          <div class="job" onclick="openJobModal('Accounts Executive')">Accounts Executive</div>
+          <div><img class="career-img" src="../../img/careers/catering-manager.jpg" alt="account-executive"></div>
+          <div class="job" onclick="openJobModal('Catering Manager')">Catering Manager</div>
         </div>
         <div class="career-box">
           <div><img class="career-img" src="../../img/careers/florist1.png" alt="florist1"></div>
           <div class="job" onclick="openJobModal('Florist')">Florist</div>
         </div>
         <div class="career-box">
-          <div><img class="career-img" src="../../img/careers/catering-manager.jpg" alt="catering-manager"></div>
-          <div class="job" onclick="openJobModal('Catering Manager')">Catering Manager</div>
+          <div><img class="career-img" src="../../img/careers/marketing-staff.png" alt="marketing-staff"></div>
+          <div class="job" onclick="openJobModal('Marketing Staff')">Marketing Staff</div>
         </div>
         <div class="career-box">
           <div><img class="career-img" src="../../img/careers/cheff.jpg" alt="cheff"></div>
-          <div class="job"  onclick="openJobModal('R&D Chef')">R&D Chef</div>
+          <div class="job"  onclick="openJobModal('Cook')">Cook</div>
         </div>
         <div class="career-box">
-          <div><img class="career-img" src="../../img/careers/marketing-staff.png" alt="marketing-staff"></div>
-          <div class="job" onclick="openJobModal('Marketing Staff')">Marketing Staff</div>
+          <div><img class="career-img" src="../../img/careers/assistant-cook.jpg" alt="assistant-cook"></div>
+          <div class="job"  onclick="openJobModal('Assistant Cook')">Assistant Cook</div>
+        </div>
+        <div class="career-box">
+          <div><img class="career-img" src="../../img/careers/kitchen-staff.jpg" alt="kitchen-staff"></div>
+          <div class="job"  onclick="openJobModal('Kitchen Staff')">Kitchen Staff</div>
+        </div>
+        <div class="career-box">
+          <div><img class="career-img" src="../../img/careers/dining-staff.jpg" alt="dining-staff"></div>
+          <div class="job"  onclick="openJobModal('Dining Staff')">Dining Staff</div>
+        </div>
+        <div class="career-box">
+          <div><img class="career-img" src="../../img/careers/supervisor.png" alt="supervisor"></div>
+          <div class="job"  onclick="openJobModal('Supervisor')">Supervisor</div>
+        </div>
+        <div class="career-box">
+          <div><img class="career-img" src="../../img/careers/food-server.gif" alt="food-server"></div>
+          <div class="job"  onclick="openJobModal('Food Server')">Food Server</div>
+        </div>
+        <div class="career-box">
+          <div><img class="career-img" src="../../img/careers/event-manager.jpg" alt="event-manager"></div>
+          <div class="job"  onclick="openJobModal('Event Manager')">Event Manager</div>
+        </div>
+        <div class="career-box">
+          <div><img class="career-img" src="../../img/careers/purchaser.jpg" alt="purchaser"></div>
+          <div class="job"  onclick="openJobModal('Purchaser')">Purchaser</div>
+        </div>
+        <div class="career-box">
+          <div><img class="career-img" src="../../img/careers/stylist.jpeg" alt="stylist"></div>
+          <div class="job"  onclick="openJobModal('Stylist')">Stylist</div>
+        </div>
+        <div class="career-box">
+          <div><img class="career-img" src="../../img/careers/host.jpg" alt="host"></div>
+          <div class="job"  onclick="openJobModal('Event Host')">Event Host</div>
+        </div>
+        <div class="career-box">
+          <div><img class="career-img" src="../../img/careers/clown.gif" alt="clown"></div>
+          <div class="job" onclick="openJobModal('Clown')">Clown</div>
           <!-- JOB MODAL -->
           <div id="jobModal">
             <div class="job-content">
@@ -51,7 +87,7 @@
     </div>
   </main>
 
-  <script src="../javascript/careers.js">
+  <script src="../javascript/careers1.js">
     // // Open the review modal
     // document.getElementById("openJobModal").onclick = function() {
     //     document.getElementById("jobModal").style.display = "block";
