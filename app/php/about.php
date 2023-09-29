@@ -40,6 +40,7 @@
     <h2>Partnership</h2>
     <hr>
     <div class="container-partnership">
+      <br>
       <div class="container-partner">
         <img class="icon-partner" src="../../icons/jg-summit.png" alt="">
         <img class="icon-partner" src="../../icons/urc.png" alt="">

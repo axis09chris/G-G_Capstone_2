@@ -9,7 +9,7 @@ if (!isset($_SESSION["user"])) {
 <?php include'../components/nav.php' ?>
 <body>
   <main>
-    <a href="logout.php">Logout</a>
+    <button type="button"><a href="logout.php">Logout</a></button>
   </main>
   <footer>
     <?php include'../components/footer.php' ?>

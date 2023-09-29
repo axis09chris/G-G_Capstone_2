@@ -11,7 +11,7 @@ if (!isset($_SESSION["user"])) {
 </head>
 <body>
   <main>
-    hello
+    Booking page
   </main>
   <footer>
     <?php include'../components/footer.php' ?>

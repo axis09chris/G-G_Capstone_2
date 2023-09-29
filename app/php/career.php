@@ -22,6 +22,10 @@
           <div class="job" onclick="openJobModal('Florist')">Florist</div>
         </div>
         <div class="career-box">
+          <div><img class="career-img" src="../../img/careers/stylist.jpeg" alt="stylist"></div>
+          <div class="job"  onclick="openJobModal('Stylist')">Stylist</div>
+        </div>
+        <div class="career-box">
           <div><img class="career-img" src="../../img/careers/marketing-staff.png" alt="marketing-staff"></div>
           <div class="job" onclick="openJobModal('Marketing Staff')">Marketing Staff</div>
         </div>
@@ -56,10 +60,6 @@
         <div class="career-box">
           <div><img class="career-img" src="../../img/careers/purchaser.jpg" alt="purchaser"></div>
           <div class="job"  onclick="openJobModal('Purchaser')">Purchaser</div>
-        </div>
-        <div class="career-box">
-          <div><img class="career-img" src="../../img/careers/stylist.jpeg" alt="stylist"></div>
-          <div class="job"  onclick="openJobModal('Stylist')">Stylist</div>
         </div>
         <div class="career-box">
           <div><img class="career-img" src="../../img/careers/host.jpg" alt="host"></div>
