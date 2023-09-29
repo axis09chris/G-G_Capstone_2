@@ -16,7 +16,7 @@
           <img src="../../img/gg-logo.png" alt="#" class="logo">
         </div>
         <div>
-          <p class="logo-name">The Place GianGaela's</p>
+          <p class="logo-name">The Place Gian & Gaela's</p>
         </div>
       </nav>
     </section>
@@ -32,7 +32,7 @@
       <a href="../php/meals.php">
         <div class="sidebar-content">
           <div><img class="sidebar-icon" src="../../icons/breakfast.png" alt="meals"></div>
-          <div>Meals</div>
+          <div>Cuisine</div>
         </div>
       </a>
 

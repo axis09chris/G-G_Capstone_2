@@ -18,7 +18,7 @@
 
     <div class="meal-content">
       <div class="meal1">
-        <div><img class="meal-image" src="../../img/filipino-plated.jpg" alt="filipino-plated"></div>
+        <div><img class="meal-image" src="../../img/luto/lb1.jpg" alt="lb1"></div>
         <div>
           <p class = "meal-name">Filipino Cuisine</p>
           <p>Filipino cuisine is sometimes recognized as the world's first genuinely multinational cuisine. The distinct flavor, originality, and diversity of Filipino food never cease to astonish visitors and natives alike. 
@@ -27,24 +27,24 @@
       </div>
 
       <div class="meal1">
-        <div><img class="meal-image" src="../../img/american-plated.jpg" alt="filipino-plated"></div>
         <div>
           <p class = "meal-name">Batangueno's Best</p>
-          <p>American plated dishes offer a culinary journey that celebrates the diverse flavors of American cuisine. These dishes blend traditional recipes with contemporary twists, showcasing regional ingredients and culinary heritage.</p>
+          <p>Finest foods in Batangas, such as Batangas Lomi, Humba, Bulalo, Goto, Adobo sa Dilaw, Sinaing na Tulingan, Kalderetang Kambing, Fried Dalagang Bukid, Barakong Kape, etc.</p>
         </div>
+        <div><img class="meal-image" src="../../img/batangauenos-best.jpg" alt="batangauenos-best"></div>
       </div>
 
       <div class="meal1">
+        <div><img class="meal-image" src="../../img/italian-plated.jpg" alt="filipino-plated"></div>
         <div>
           <p class = "meal-name">Italian Cuisine</p>
           <p>We invite you to savor the authentic flavors of Italy in every delectable dish. Our menu is a celebration of Italian culinary traditions, prepared with passion and using only the finest ingredients. Prepare to be transported to the sun-kissed landscapes of Italy with our carefully curated selection.</p>
         </div>
-        <div><img class="meal-image" src="../../img/italian-plated.jpg" alt="filipino-plated"></div>
       </div>
 
       <div class="meal1">
         <div>
-          <p class = "meal-name">Pizza $ Pasta Buffet</p>
+          <p class = "meal-name">Pizza & Pasta Buffet</p>
           <p>Culinary artistry meets the timeless charm of pizza. Our menu features a delectable selection of handcrafted pizzas, thoughtfully curated to tantalize your taste buds. Indulge in our exquisite creations, each crafted with the finest ingredients and a touch of passion.</p>
         </div>
         <div><img class="meal-image" src="../../img/pizza-plated.jpg" alt="filipino-plated"></div>
