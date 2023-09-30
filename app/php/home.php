@@ -5,7 +5,6 @@
 <body>
   <main>
     <div class="container1">
-      <p>The Place GianGaela's</p>
     </div>
     <section>
       <div id="myModal" class="modal">

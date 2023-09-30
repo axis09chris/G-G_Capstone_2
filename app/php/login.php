@@ -57,7 +57,7 @@ if (isset($_SESSION["user"])) {
     </div>
     <div class="left">
       <img src="../../img/gg-logo.png" alt="logo">
-      <p>The Place GianGaela's</p>
+      <p>The Place Gian&Gaela's <small>Funtion Hall & Food Services</small></p>
     </div>
   </div>
 </body>

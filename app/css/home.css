@@ -2,10 +2,10 @@
 
 .container1 {
   text-align: center;
-  background-image: url(../../img/bg3.jpg);
+  background-image: url(../../img/gg-long.png);
   background-position: center;
   background-repeat: no-repeat;
-  /* height: 100%; */
+  height: 50%;
   opacity: 0.9;
   padding: 60px;
 }

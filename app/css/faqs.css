@@ -1,0 +1,39 @@
+.content-title {
+  font-family: 'Poppins', sans-serif;
+  background-color: beige;
+
+  position: fixed;
+  top: 0px;
+  left: 245px;
+  right: 0px;
+  height: 48px;
+
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: #222;
+}
+
+h1 {
+  margin: 1px;
+}
+
+.container-faq-item {
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.container-faq-item .faq-item {
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.container-faq-item .faq-item .question{
+  cursor: pointer;
+}
+
+.answer {
+  display: none;
+  margin-top: 10px;
+}
+

@@ -19,7 +19,7 @@ if (isset($_SESSION["user"])) {
     <div class="left">
       <img src="../../img/gg-logo.png" alt="logo">
       <!-- <p>The Place Gian & Gaela's</p> -->
-      <p>The Place<br><span>Function Hall & Food Catering Services</span></p>
+      <p>The Place Gian&Gaela's <small>Funtion Hall & Food Services</small></p>
     </div>
     <div class="right">
       <?php

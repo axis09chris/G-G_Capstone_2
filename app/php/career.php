@@ -87,7 +87,7 @@
     </div>
   </main>
 
-  <script src="../javascript/careers1.js">
+  <script src="../javascript/careers.js">
     // // Open the review modal
     // document.getElementById("openJobModal").onclick = function() {
     //     document.getElementById("jobModal").style.display = "block";
