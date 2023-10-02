@@ -11,15 +11,13 @@ if (isset($_SESSION["user"])) {
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <title>Registration Form</title>
-  <!-- <link rel="stylesheet" href="../css/registration.css"> -->
   <link rel="stylesheet" href="../css/registration.css?v=<?php echo time(); ?>">
 </head>
 <body>
   <div class="main">
     <div class="left">
       <img src="../../img/gg-logo.png" alt="logo">
-      <!-- <p>The Place Gian & Gaela's</p> -->
-      <p>The Place Gian&Gaela's <small>Funtion Hall & Food Services</small></p>
+      <p>The Place Gian & Gaela's <br><strong>Funtion Hall & Food Services</strong></p>
     </div>
     <div class="right">
       <?php

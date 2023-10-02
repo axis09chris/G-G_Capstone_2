@@ -3,7 +3,8 @@
 
 body {
   background-image: url(../../img/bg2.png);
-  -webkit-background-size: cover;
+  height: 80vh;
+  background-position: center;
   background-size: cover;
 
   margin: 0px;
@@ -53,13 +54,12 @@ body {
   border: 1px solid #000;
   font-weight: bold;
 }
-.left {
-  width: 400px;
+.main .left {
   text-align: center;
   font-family: 'Pacifico', cursive;
 }
 p {
-  font-size: 30px; 
+  font-size: 30px;
   margin: auto; 
 }
 img {

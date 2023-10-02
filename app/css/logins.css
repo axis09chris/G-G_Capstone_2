@@ -3,10 +3,9 @@
 
 body {
   background-image: url(../../img/bg2.png);
-  -webkit-background-size: cover;
   background-size: cover;
+  height: 80vh;
   background-repeat: no-repeat;
-  margin: 0px;
 }
 .main {
   display: flex;

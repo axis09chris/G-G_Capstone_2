@@ -19,7 +19,7 @@
         <div class="album-venue album-wedding"><a href="gallery-wedding.php"><span>Wedding</span></a></div>
       </section>      
       <section class="kd">
-        <div class="album-venue album-kid"><a href="gallery-kids.php"><span>Kid Party</span></a></div>
+        <div class="album-venue album-kid"><a href="gallery-kids.php"><span>Kids Party</span></a></div>
         <br>
         <div class="album-venue album-debut"><a href="gallery-debut.php"><span>Debut</span></a></div>
       </section>

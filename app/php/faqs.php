@@ -16,7 +16,7 @@
               <p>Yes, in every event the management prepare only 50 buffer/excess food for the extra guest.</p>
           </div>
       </div>
-
+      
       <div class="faq-item">
           <h4 class="question">Question 2 : Is the Buffer/Excess food Paid?</h4>
           <div class="answer">
@@ -52,20 +52,20 @@
   </footer>
   <script>
     // JavaScript for toggling FAQ answers
-document.addEventListener('DOMContentLoaded', function () {
-    const questions = document.querySelectorAll('.question');
+    document.addEventListener('DOMContentLoaded', function () {
+        const questions = document.querySelectorAll('.question');
 
-    questions.forEach(question => {
-        question.addEventListener('click', function () {
-            const answer = this.nextElementSibling;
-            if (answer.style.display === 'block') {
-                answer.style.display = 'none';
-            } else {
-                answer.style.display = 'block';
-            }
+        questions.forEach(question => {
+            question.addEventListener('click', function () {
+                const answer = this.nextElementSibling;
+                if (answer.style.display === 'block') {
+                    answer.style.display = 'none';
+                } else {
+                    answer.style.display = 'block';
+                }
+            });
         });
     });
-});
 
   </script>
 </body>
