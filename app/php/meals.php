@@ -21,15 +21,14 @@
         <div><img class="meal-image" src="../../img/luto/lb1.jpg" alt="lb1"></div>
         <div>
           <p class = "meal-name">Filipino Cuisine</p>
-          <p>Filipino cuisine is sometimes recognized as the world's first genuinely multinational cuisine. The distinct flavor, originality, and diversity of Filipino food never cease to astonish visitors and natives alike. 
-            <br>Filipino food is special because it incorporates numerous culinary traditions; for example, practically every dish reflects the influence of Spanish, Chinese, Indian, and Western cuisine.</p>
+          <p>Filipino cuisine is a delicious blend of sweet, savory, sour, and spicy flavors, offering a delightful culinary adventure for those seeking to explore its diverse range of dishes.</p>
         </div>
       </div>
 
       <div class="meal1">
         <div>
           <p class = "meal-name">Batangueno's Best</p>
-          <p>Finest foods in Batangas, such as Batangas Lomi, Humba, Bulalo, Goto, Adobo sa Dilaw, Sinaing na Tulingan, Kalderetang Kambing, Fried Dalagang Bukid, Barakong Kape, etc.</p>
+          <p>"Batangueños Best" can encompass various aspects of Batangas culture, traditions, and products that are highly regarded and celebrated in the region and beyond.</p>
         </div>
         <div><img class="meal-image" src="../../img/batangauenos-best.jpg" alt="batangauenos-best"></div>
       </div>
@@ -38,16 +37,24 @@
         <div><img class="meal-image" src="../../img/italian-plated.jpg" alt="filipino-plated"></div>
         <div>
           <p class = "meal-name">Italian Cuisine</p>
-          <p>We invite you to savor the authentic flavors of Italy in every delectable dish. Our menu is a celebration of Italian culinary traditions, prepared with passion and using only the finest ingredients. Prepare to be transported to the sun-kissed landscapes of Italy with our carefully curated selection.</p>
-        </div>
+          <p>Italian cuisine's emphasis on simplicity, fresh ingredients, and regional diversity has made it beloved worldwide. It's a cuisine that celebrates both comfort food and haute cuisine, making it an integral part of global culinary culture.</p>
+          </div>
       </div>
 
       <div class="meal1">
         <div>
           <p class = "meal-name">Pizza & Pasta Buffet</p>
-          <p>Culinary artistry meets the timeless charm of pizza. Our menu features a delectable selection of handcrafted pizzas, thoughtfully curated to tantalize your taste buds. Indulge in our exquisite creations, each crafted with the finest ingredients and a touch of passion.</p>
+          <p>Pizza and Pasta Buffet offers a relaxed and enjoyable dining experience with a focus on two beloved Italian dishes, making it a versatile and crowd-pleasing choice for diners of all ages.</p>
         </div>
         <div><img class="meal-image" src="../../img/pizza-plated.jpg" alt="filipino-plated"></div>
+      </div>
+
+      <div class="meal1">
+        <div><img class="meal-image" src="../../img/meal1.jpg" alt="filipino-plated"></div>
+        <div>
+          <p class = "meal-name">Food to Go</p>
+          <p>Whether it's a quick coffee and pastry on the way to work, a takeout meal for lunch, or a complete catering service for an event, food to go offers convenient options for people to enjoy their favorite dishes when and where they choose.</p>
+        </div>
       </div>
     </div>
   </main>
