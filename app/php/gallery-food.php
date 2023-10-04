@@ -5,44 +5,26 @@
 <body>
   <div class="gallery-title">
   <h1><a href="gallery.php">Gallery</a></h1>
-    </div>
+  </div>
   <div class="container">
     <p>Cuisine Gallery</p>
     <hr>
-    <main class="box-container">
-      <div class="gallery-img">
-        <img src="../../img/c1.jpg">
-        <img src="../../img/nachos1.jpg">
-        <img src="../../img/pasta1.jpg">
-        <img src="../../img/pasta4.jpg">
-        <img src="../../img/donut1.jpg">
-        <img src="../../img/p1.jpg">
-        <img src="../../img/p4.jpg">
-        <img src="../../img/p7.jpg">
-        <img src="../../img/p10.jpg">
-      </div>
-      <div class="gallery-img">
-        <img src="../../img/c2.jpg">
-        <img src="../../img/nachos2.jpg">
-        <img src="../../img/pasta2.jpg">
-        <img src="../../img/palabok.jpg">
-        <img src="../../img/f2.jpg">
-        <img src="../../img/p2.jpg">
-        <img src="../../img/p5.jpg">
-        <img src="../../img/p8.jpg">
-        <img src="../../img/p11.jpg">
-      </div>
-      <div class="gallery-img">
-        <img src="../../img/c3.jpg">
-        <img src="../../img/nachos3.jpg">
-        <img src="../../img/pasta3.jpg">
-        <img src="../../img/donut2.jpg">
-        <img src="../../img/f1.jpg">
-        <img src="../../img/p3.jpg">
-        <img src="../../img/p6.jpg">
-        <img src="../../img/p9.jpg">
-        <img src="../../img/p12.jpg">
-      </div>
+    <main>
+      <section>
+        <div class="album-food album-filipino"><a href="#"><span>Filipino Cuisine</span></a></div>
+        <br>
+        <div class="album-food album-pizza"><a href="#"><span>Pizza & Pasta Buffet</span></a></div>
+      </section>
+      <section>
+        <div class="album-food album-batangas"><a href="#"><span>Batangueño's Best</span></a></div>
+        <br>
+        <div class="album-food album-f2g"><a href="#"><span>Food to Go</span></a></div>
+      </section>
+      <section>
+        <div class="album-food album-italian"><a href="#"><span>Italian Cuisine</span></a></div>
+        <br>
+        <div class="album-food album-finger"><a href="#"><span>Finger Foods</span></a></div>
+      </section>
     </main>
   </div>
   <footer>

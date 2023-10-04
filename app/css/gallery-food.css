@@ -18,25 +18,16 @@
   margin: 0px;
 }
 .container {
-  margin-top: 20px;
+  margin: 20px 0;
   display: flex;
   flex-direction: column;
+}
+.container main {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
   justify-content: center;
-}
-.container .box-container {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-}
-.container .box-container .gallery-img {
-  display: flex;
-  flex-direction: column;
-  width: 32.5%;
-}
-.container .box-container .gallery-img img {
-  width: 100%;
-  margin-bottom: 10px;
-  border-radius: 10px;
+  align-items: center;
 }
 .container p {
   text-align: center;
@@ -49,3 +40,40 @@
   border: 2px solid black;
   margin-bottom: 15px;
 }
+.container .album-food {
+  background-color: rgba(255,255,255,0.7);
+  background-blend-mode: lighten;
+  background-size: cover;
+  border-radius: 10px;
+  border: 3px solid #000;
+  color: black;
+  padding: 70px;
+  text-align: center;
+}
+.container .album-filipino {
+  background-image: url(../../img/filipino-cuisine/filipino-plated.jpg);
+}
+.container .album-pizza {
+  background-image: url(../../img/pizza-pasta-buffet/pizza-plated.jpg);
+}
+.container .album-batangas {
+  background-image: url(../../img/batanguenos-best/humba.jpg);
+}
+.container .album-f2g {
+  background-image: url(../../img/food-to-go/food-to-go.jpg);
+}
+.container .album-italian {
+  background-image: url(../../img/italian-cuisine/italian-plated.jpg);
+}
+.container .album-finger {
+  background-image: url(../../img/2.JPG);
+}
+
+.container .album-food span {
+  font-family: 'Pacifico', cursive;
+  font-size: 1.5em;
+  color: black;
+}
+.container .album-food span:hover {
+  text-decoration: underline;
+} 

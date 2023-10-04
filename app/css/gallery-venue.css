@@ -50,6 +50,7 @@
   border: 3px solid #000;
   color: black;
   padding: 70px;
+  text-align: center;
 }
 .container .album-wedding {
   background-image: url(../../img/wedding/wed3-1.jpg);
