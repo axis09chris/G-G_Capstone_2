@@ -18,7 +18,7 @@
 
     <div class="meal-content">
       <div class="meal1">
-        <div><img class="meal-image" src="../../img/luto/lb1.jpg" alt="lb1"></div>
+        <div><img class="meal-image" src="../../img/filipino-plated.jpg" alt="lb1"></div>
         <div>
           <p class = "meal-name">Filipino Cuisine</p>
           <p>Filipino cuisine is a delicious blend of sweet, savory, sour, and spicy flavors, offering a delightful culinary adventure for those seeking to explore its diverse range of dishes.</p>
@@ -50,10 +50,10 @@
       </div>
 
       <div class="meal1">
-        <div><img class="meal-image" src="../../img/meal1.jpg" alt="filipino-plated"></div>
+        <div><img class="meal-image" src="../../img/food-to-go.jpg" alt="filipino-plated"></div>
         <div>
           <p class = "meal-name">Food to Go</p>
-          <p>Whether it's a quick coffee and pastry on the way to work, a takeout meal for lunch, or a complete catering service for an event, food to go offers convenient options for people to enjoy their favorite dishes when and where they choose.</p>
+          <p>Whether it's a quick breakfast on the way to work, a takeout meal for lunch, or a complete catering service for an event, food to go offers convenient options for people to enjoy their favorite dishes when and where they choose.</p>
         </div>
       </div>
     </div>

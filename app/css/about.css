@@ -103,7 +103,7 @@ hr {
 .partnership-section .container-partnership {
   display: flex;
   flex-direction: column;
-  row-gap: 30px;
+  row-gap: 50px;
   justify-content: space-evenly;
   text-align: center;
 }
@@ -112,7 +112,7 @@ hr {
   justify-content: space-evenly;
 }
 .partnership-section .container-partnership .container-partner .icon-partner {
-  width: 15%;
+  width: 12%;
 }
 .btn-primary {
   width: 25%;

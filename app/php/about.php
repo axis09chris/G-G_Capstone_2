@@ -42,9 +42,8 @@
     <div class="container-partnership">
       <br>
       <div class="container-partner">
-        <img class="icon-partner" src="../../icons/jg-summit.png" alt="">
+        <img class="icon-partner" src="../../icons/2008-jgsoc.png" alt="">
         <img class="icon-partner" src="../../icons/urc.png" alt="">
-        <img class="icon-partner" src="../../icons/cemex-logo.png" alt="">
       </div>
       <div class="container-partner">
         <img class="icon-partner" src="../../icons/goldengate.png" alt="">
@@ -52,6 +51,7 @@
         <img class="icon-partner" src="../../icons/ub.png" alt="">
       </div>
       <div class="container-partner">
+        <img class="icon-partner" src="../../icons/cemex-logo.png" alt="">
         <img class="icon-partner" src="../../icons/cipec.png" alt="">
       </div>
     </div>

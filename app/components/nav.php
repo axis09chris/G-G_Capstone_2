@@ -16,7 +16,7 @@
           <img src="../../img/gg-logo.png" alt="#" class="logo">
         </div>
         <div>
-          <p class="logo-name">The Place Gian & Gaela's</p>
+          <p class="logo-name">The Place<br>Gian & Gaela's</p>
         </div>
       </nav>
     </section>
