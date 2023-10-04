@@ -1,0 +1,26 @@
+.content-title {
+  font-family: 'Poppins', sans-serif;
+  background-color: beige;
+
+  position: fixed;
+  top: 0px;
+  left: 245px;
+  right: 0px;
+  height: 48px;
+
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: #222;
+}
+
+h1 {
+  margin: 1px;
+}
+
+.container {
+  padding: 10px;
+}
+.terms-intro,
+.terms-outro {
+  padding: 0px 10px;
+}
