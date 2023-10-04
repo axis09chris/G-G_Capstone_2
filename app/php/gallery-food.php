@@ -11,19 +11,19 @@
     <hr>
     <main>
       <section>
-        <div class="album-food album-filipino"><a href="#"><span>Filipino Cuisine</span></a></div>
+        <div class="album-food album-filipino"><a href="gallery-filipino.php"><span>Filipino Cuisine</span></a></div>
         <br>
-        <div class="album-food album-pizza"><a href="#"><span>Pizza & Pasta Buffet</span></a></div>
+        <div class="album-food album-pizza"><a href="gallery-pizza.php"><span>Pizza & Pasta Buffet</span></a></div>
       </section>
       <section>
-        <div class="album-food album-batangas"><a href="#"><span>Batangueño's Best</span></a></div>
+        <div class="album-food album-batangas"><a href="gallery-batangas.php""><span>Batangueño's Best</span></a></div>
         <br>
-        <div class="album-food album-f2g"><a href="#"><span>Food to Go</span></a></div>
+        <div class="album-food album-f2g"><a href="gallery-f2g.php"><span>Food to Go</span></a></div>
       </section>
       <section>
-        <div class="album-food album-italian"><a href="#"><span>Italian Cuisine</span></a></div>
+        <div class="album-food album-italian"><a href="gallery-italian.php"><span>Italian Cuisine</span></a></div>
         <br>
-        <div class="album-food album-finger"><a href="#"><span>Finger Foods</span></a></div>
+        <div class="album-food album-finger"><a href="gallery-finger.php"><span>Finger Foods</span></a></div>
       </section>
     </main>
   </div>
