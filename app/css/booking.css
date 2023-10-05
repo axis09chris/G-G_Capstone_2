@@ -1,0 +1,32 @@
+.theModal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 30px;
+  padding-left: 100px;
+  padding-right: 100px;
+  left: 0;
+  top: 0;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Black w/ opacity */
+}
+
+.the-modal-content {
+  background-color: beige;
+  padding: 20px;
+  border: 1px solid #222;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  text-align: justify;
+}
+
+/* Button styles */
+.theclose {
+  /* position: absolute; */
+  /* top: 40px; */
+  /* right: 120px; */
+  font-size: 16px;
+  cursor: pointer;
+  padding: 5px 10px;
+}
+
+/* Add additional styling as needed */
