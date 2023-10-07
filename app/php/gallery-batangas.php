@@ -28,7 +28,6 @@
         <img src="../../img/batanguenos-best/inihaw.jpg" alt="">
         <img src="../../img/batanguenos-best/lomi.jpg" alt="">
         <img src="../../img/batanguenos-best/tinola.jpg" alt="">
-        <img src="../../img/batanguenos-best/sinigang-baboy.jpg" alt="">
       </div>
       <div class="gallery-img">
         <img src="../../img/batanguenos-best/lb1.jpg" alt="">

@@ -11,25 +11,22 @@
     <hr>
     <main class="box-container">
       <div class="gallery-img">
-        <img src="../../img/finger-food/#" alt="finger">
-        <img src="../../img/finger-food/#" alt="finger">
-        <img src="../../img/finger-food/#" alt="finger">
-        <img src="../../img/finger-food/#" alt="finger">
-        <img src="../../img/finger-food/#" alt="finger">
+        <img src="../../img/finger-foods/2.jpg" alt="finger">
+        <img src="../../img/finger-foods/nachos4.jpg" alt="finger">
+        <img src="../../img/finger-foods/puto1.jpg" alt="finger">
+        <img src="../../img/finger-foods/cookies.jpg" alt="finger">
       </div>
       <div class="gallery-img">
-        <img src="../../img/finger-food/#" alt="finger">
-        <img src="../../img/finger-food/#" alt="finger">
-        <img src="../../img/finger-food/#" alt="finger">
-        <img src="../../img/finger-food/#" alt="finger">
-        <img src="../../img/finger-food/#" alt="finger">
+        <img src="../../img/finger-foods/nachos2.jpg" alt="finger">
+        <img src="../../img/finger-foods/nachos.jpg" alt="finger">
+        <img src="../../img/finger-foods/puto.jpg" alt="finger">
+        <img src="../../img/finger-foods/brownies.jpg" alt="finger">
       </div>
       <div class="gallery-img">
-        <img src="../../img/finger-food/#" alt="finger">
-        <img src="../../img/finger-food/#" alt="finger">
-        <img src="../../img/finger-food/#" alt="finger">
-        <img src="../../img/finger-food/#" alt="finger">
-        <img src="../../img/finger-food/#" alt="finger">
+        <img src="../../img/finger-foods/nachos3.jpg" alt="finger">
+        <img src="../../img/finger-foods/nachos1.jpg" alt="finger">
+        <img src="../../img/finger-foods/puto2.jpg" alt="finger">
+        <img src="../../img/finger-foods/salad.jpg" alt="finger">
       </div>
     </main>
     </div>
